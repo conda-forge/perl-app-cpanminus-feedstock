@@ -18,8 +18,6 @@ build:
 requirements:
   build:
     - perl
-    #- make  # [win]
-    #- mingw  # [win]
   run:
     - perl 
 
