@@ -42,7 +42,6 @@ about:
   doc_url: https://metacpan.org/release/MIYAGAWA/App-cpanminus-1.7043
   dev_url: https://github.com/miyagawa/cpanminus.git
 
-
 extra:
   recipe-maintainers:
     - jerowe 
