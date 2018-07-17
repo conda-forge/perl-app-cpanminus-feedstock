@@ -16,6 +16,9 @@ build:
   skip: True  # [win]
 
 requirements:
+  build: 
+    - {{ compiler('cxx') }} 
+    - {{ compiler('c') }} 
   host:
     - perl
   run:
