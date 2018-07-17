@@ -16,8 +16,7 @@ build:
   skip: True  # [win]
 
 requirements:
-  build:
-    - toolchain
+  host:
     - perl
   run:
     - perl 
