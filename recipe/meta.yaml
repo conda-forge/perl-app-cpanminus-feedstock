@@ -27,8 +27,7 @@ test:
 
 about:
   home: https://metacpan.org/pod/App::cpanminus
-  license: perl 
-  license_family: MIT
+  license: GPL-1.0-or-later OR Artistic-1.0-Perl
   license_file: LICENSE
   summary: 'get, unpack build and install modules from CPAN'
 
