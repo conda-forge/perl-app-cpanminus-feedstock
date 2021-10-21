@@ -28,7 +28,8 @@ requirements:
 
 test:
   commands:
-    - cpanm --help 2>&1 | grep 'Usage' 
+    - cpanm --help < /dev/null | grep -qF 'Usage'
+    - cpanm --version < /dev/null | grep -qF '{{ version }}'
 
 about:
   home: https://metacpan.org/pod/App::cpanminus
