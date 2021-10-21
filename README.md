@@ -127,4 +127,5 @@ Feedstock Maintainers
 =====================
 
 * [@jerowe](https://github.com/jerowe/)
+* [@tdegeus](https://github.com/tdegeus/)
 
