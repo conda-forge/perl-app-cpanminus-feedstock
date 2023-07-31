@@ -1,11 +1,11 @@
-About perl-app-cpanminus
-========================
+About perl-app-cpanminus-feedstock
+==================================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/perl-app-cpanminus-feedstock/blob/main/LICENSE.txt)
 
 Home: https://metacpan.org/pod/App::cpanminus
 
 Package license: GPL-1.0-or-later OR Artistic-1.0-Perl
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/perl-app-cpanminus-feedstock/blob/main/LICENSE.txt)
 
 Summary: get, unpack build and install modules from CPAN
 
