@@ -1,5 +1,5 @@
-{% set version = "1.7047" %}
-{% set sha256 = "963e63c6e1a8725ff2f624e9086396ae150db51dd0a337c3781d09a994af05a5" %}
+{% set version = "1.7048" %}
+{% set sha256 = "59b60907ab9fa4f72ca2004fbe6054911439ae9a906890b4d842a87b25f20f3c" %}
 
 package:
   name: perl-app-cpanminus
