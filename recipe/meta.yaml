@@ -17,9 +17,8 @@ build:
 
 requirements:
   build:
+    - toolchain
     - perl
-    #- make  # [win]
-    #- mingw  # [win]
   run:
     - perl 
 
